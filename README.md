@@ -49,8 +49,4 @@ The chatbot follows a modular architecture:
 * Python 3.8 or higher
 * `pip` (Python package manager)
 
-### Steps
-1. **Clone the Repo**
-   ```bash
-   git clone [https://github.com/](https://github.com/)[YourUsername]/public-grievance-chatbot.git
-   cd public-grievance-chatbot
+
